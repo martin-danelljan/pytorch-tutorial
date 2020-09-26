@@ -8,8 +8,10 @@
 
 Just click on the links below to start!
 
+[Please **CTRL-click** to open it in a new tab.]
+
 ### [Part 0: Python Basics](https://colab.research.google.com/github/martin-danelljan/pytorch-tutorial/blob/master/part0.ipynb)
 
 ### [Part 1: PyTorch Basics](https://colab.research.google.com/github/martin-danelljan/pytorch-tutorial/blob/master/part1.ipynb)
 
-### More parts coming soon ...
+More parts coming soon ...
