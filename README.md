@@ -14,4 +14,6 @@ Just click on the links below to start!
 
 ### [Part 1: PyTorch Basics](https://colab.research.google.com/github/martin-danelljan/pytorch-tutorial/blob/master/part1.ipynb)
 
-More parts coming soon ...
+### [Part 2: Image Operations with PyTorch](https://colab.research.google.com/github/martin-danelljan/pytorch-tutorial/blob/master/part2.ipynb)
+
+Part 3 coming soon ...
